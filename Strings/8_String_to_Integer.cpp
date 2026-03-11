@@ -2,7 +2,7 @@
 // Space Complexity - O(1)
 
 // Medium
-// LEetcode -https://leetcode.com/problems/string-to-integer-atoi
+// Leetcode -https://leetcode.com/problems/string-to-integer-atoi
 class Solution {
 public:
     int myAtoi(string s) {
