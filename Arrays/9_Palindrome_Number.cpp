@@ -1,8 +1,8 @@
 // Time Complexity - O(log10(n))
 // Space Complexity - O(1)
 
-// Medium
-// LEetcode - https://leetcode.com/problems/palindrome-number
+// Easy
+// Leetcode - https://leetcode.com/problems/palindrome-number
 
 class Solution {
 public:
