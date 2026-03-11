@@ -2,7 +2,7 @@
 // Space Complexity - O(1)
 
 // Medium
-// LEetcode - https://leetcode.com/problems/container-with-most-water
+// Leetcode - https://leetcode.com/problems/container-with-most-water
 
 class Solution {
 public:
