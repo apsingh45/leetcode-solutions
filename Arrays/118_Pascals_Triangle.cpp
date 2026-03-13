@@ -1,5 +1,5 @@
-// Time Complexity - O(n)
-// Space Complexity -O(n)
+// Time Complexity - O(n²)
+// Space Complexity - O(n²)
 
 // Easy
 // LeetCode - https://leetcode.com/problems/pascals-triangle
