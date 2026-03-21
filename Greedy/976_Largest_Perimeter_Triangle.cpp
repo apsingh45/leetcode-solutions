@@ -1,7 +1,7 @@
 // Time Complexity - O(n log n)
 // Space Complexity - O(log n)
 
-// Medium
+// Easy
 // Leetcode - https://leetcode.com/problems/largest-perimeter-triangle
 
 class Solution {
