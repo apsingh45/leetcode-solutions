@@ -1,7 +1,7 @@
 // Time Complexity - O(n)
 // Space Complexity -O(1)
 
-// Medium
+// Easy
 // Leetcode - https://leetcode.com/problems/reverse-only-letters
 
 class Solution {
