@@ -1,7 +1,7 @@
 // Time Complexity - O(n x m)
 // Space Complexity -O(n x m)
 
-// Medium
+// Easy
 // Leetcode - https://leetcode.com/problems/transpose-matrix
 
 class Solution {
