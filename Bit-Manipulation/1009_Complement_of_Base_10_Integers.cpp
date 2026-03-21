@@ -1,7 +1,7 @@
 // Time Complexity - O(log n)
 // Space Complexity - O(log n)
 
-// Medium
+// Easy
 // Leetcode - https://leetcode.com/problems/complement-of-base-10-integer
 
 class Solution {
