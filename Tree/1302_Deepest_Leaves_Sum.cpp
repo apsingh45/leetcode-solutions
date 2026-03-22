@@ -1,7 +1,7 @@
 // Time Complexity - O(n)
 // Space Complexity - O(h) h =height of tree
 
-// Easy
+// Medium
 // Leetcode - https://leetcode.com/problems/deepest-leaves-sum
 
 /**
