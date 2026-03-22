@@ -1,7 +1,7 @@
 // Time Complexity - O(n x m)
 // Space Complexity - O(1)
 
-// Medium
+// Easy
 // Leecode - https://leetcode.com/problems/richest-customer-wealth
 
 class Solution {
