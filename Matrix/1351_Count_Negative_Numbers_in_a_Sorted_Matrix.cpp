@@ -1,7 +1,7 @@
 // Time Complexity - O(m + n)
 // Space Complexity - O(1)
 
-// Medium
+// Easy
 // Leecode - https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix
 
 class Solution {
