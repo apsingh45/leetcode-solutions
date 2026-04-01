@@ -1,7 +1,7 @@
 // Time Complexity - O(n^2)
 // Space Complexity - O(n)
 
-// Medium
+// Easy
 // Leetcode - https://leetcode.com/problems/find-resultant-array-after-removing-anagrams
 
 class Solution {
