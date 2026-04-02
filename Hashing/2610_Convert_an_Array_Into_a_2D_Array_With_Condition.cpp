@@ -2,7 +2,7 @@
 // Space Complexity - O(n)
 
 // Medium
-// Leetcode Solutions - https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions
+// Leetcode - https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions
 
 class Solution {
 public:
