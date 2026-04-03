@@ -1,7 +1,7 @@
 // Time Complexity - O(n log n)
 // Space Complexity - O(1)
 
-// Easy
+// Medium
 // Leetcode - https://leetcode.com/problems/count-elements-with-at-least-k-greater-values
 
 class Solution {
